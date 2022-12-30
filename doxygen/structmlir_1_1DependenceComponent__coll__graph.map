@@ -1,0 +1,8 @@
+<map id="mlir::DependenceComponent" name="mlir::DependenceComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="585,39,797,65"/>
+<area shape="rect" id="node2" title=" " alt="" coords="364,9,516,36"/>
+<area shape="rect" id="node3" title=" " alt="" coords="82,5,159,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Operation.html" title="Operation is the basic unit of execution within MLIR." alt="" coords="380,64,500,91"/>
+<area shape="rect" id="node5" title=" " alt="" coords="16,57,225,98"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,122,236,193"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="mlir::bufferization::func_ext::FuncAnalysisState" name="mlir::bufferization::func_ext::FuncAnalysisState">
+<area shape="rect" id="node1" title="Extra analysis state that is required for bufferization of function boundaries." alt="" coords="833,117,1047,158"/>
+<area shape="rect" id="node2" href="$classmlir_1_1bufferization_1_1OneShotAnalysisState_1_1Extension.html" title="Base class for OneShotAnalysisState extensions that allow OneShotAnalysisState to contain user&#45;specif..." alt="" coords="471,5,646,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="461,86,656,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="5,151,216,193"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="461,151,656,193"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="461,217,656,258"/>
+</map>

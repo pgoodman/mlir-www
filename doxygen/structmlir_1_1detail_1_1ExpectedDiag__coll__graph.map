@@ -1,0 +1,10 @@
+<map id="mlir::detail::ExpectedDiag" name="mlir::detail::ExpectedDiag">
+<area shape="rect" id="node1" title="This class represents an expected output diagnostic." alt="" coords="335,184,525,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,151,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="175,95,239,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="264,95,449,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="318,5,395,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="474,95,525,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="549,95,631,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="655,95,738,121"/>
+</map>

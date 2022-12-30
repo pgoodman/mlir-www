@@ -1,0 +1,13 @@
+<map id="mlir::OpAsmParser::Argument" name="mlir::OpAsmParser::Argument">
+<area shape="rect" id="node1" title=" " alt="" coords="833,79,984,120"/>
+<area shape="rect" id="node2" href="$classmlir_1_1Type.html" title="Instances of the Type class are uniqued, have an immutable identifier and an optional mutable compone..." alt="" coords="575,13,661,39"/>
+<area shape="rect" id="node3" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type." alt="" coords="212,13,348,39"/>
+<area shape="rect" id="node4" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="561,63,675,90"/>
+<area shape="rect" id="node6" title=" " alt="" coords="520,114,716,141"/>
+<area shape="rect" id="node7" title=" " alt="" coords="241,103,319,130"/>
+<area shape="rect" id="node8" href="$structmlir_1_1OpAsmParser_1_1UnresolvedOperand.html" title="This is the representation of an operand reference." alt="" coords="543,176,693,217"/>
+<area shape="rect" id="node9" title=" " alt="" coords="248,154,312,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="239,205,321,231"/>
+<area shape="rect" id="node11" title=" " alt="" coords="239,255,321,282"/>
+</map>
